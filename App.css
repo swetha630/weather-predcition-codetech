@@ -1,0 +1,41 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #e0f7fa;
+  text-align: center;
+  padding: 20px;
+  margin: 0;
+}
+
+.app {
+  max-width: 500px;
+  margin: auto;
+  background: #fff;
+  padding: 25px;
+  border-radius: 12px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+input {
+  padding: 10px;
+  width: 65%;
+  margin-right: 10px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #0288d1;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.weather-card {
+  margin-top: 20px;
+  background-color: #b2ebf2;
+  padding: 15px;
+  border-radius: 10px;
+  text-align: left;
+}
